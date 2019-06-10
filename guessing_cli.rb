@@ -1,5 +1,4 @@
 require "pry"
-# binding.pry
 def exit
     puts "Goodbye!"
     
